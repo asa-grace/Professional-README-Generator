@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asa-grace/Professional-README-Generator/issues"
   },
-  "homepage": "https://github.com/asa-grace/Professional-README-Generator#readme"
+  "homepage": "https://github.com/asa-grace/Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
 }
