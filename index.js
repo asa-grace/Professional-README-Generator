@@ -9,13 +9,6 @@ const questions = () => {
             type: 'input',
             name: 'title',
             message: 'What is the projects title?',
-            validate: titleInput => {
-                if (titleInput) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
         },
         {
             type: 'input',
